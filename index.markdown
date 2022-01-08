@@ -4,4 +4,3 @@
 
 layout: home
 ---
-<h2> hi </h2>
