@@ -21,7 +21,7 @@ border: 2px solid #65C8FF;
 write here
 or
 <button class="button button1" onclick="window.location='https://google.com'"/>
-
+</style>
 </body>
 </html>
 
