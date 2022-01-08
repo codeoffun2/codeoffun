@@ -14,7 +14,7 @@ border: 2px solid #65C8FF;
 }
 
 
-</style>
+
 </head>
 <body>
 
