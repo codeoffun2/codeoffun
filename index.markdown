@@ -4,3 +4,23 @@
 
 layout: home
 ---
+  border: 2px solid #65C8FF;
+}
+
+.button1:hover {
+  background-color: #65C8FF;
+  color: white;
+}
+
+
+</style>
+</head>
+<body>
+
+write here
+or
+<button class="button button1" onclick="window.location='https://google.com'"/>
+
+</body>
+</html>
+
