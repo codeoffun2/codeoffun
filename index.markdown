@@ -4,7 +4,8 @@
 
 layout: home
 ---
-  border: 2px solid #65C8FF;
+<style type="text/css">
+border: 2px solid #65C8FF;
 }
 
 .button1:hover {
