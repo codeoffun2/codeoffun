@@ -44,5 +44,3 @@ layout: home
 <p> I'm codeoffun and I know a little bit of coding!
 <p>
 <button class="button button1" onclick="window.location='https://codeoffun.ddns.net/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/'">Cool page</button>
-</body>
-</html>
