@@ -47,7 +47,7 @@ permalink: /codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffu
 
 
 <button class="button button1" onclick="window.location='https://google.com'"> <i class="fa fa-bars"></i> </button>
+</td> 
 </body>
-</td>
 </html>
 
