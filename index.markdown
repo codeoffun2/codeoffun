@@ -5,7 +5,6 @@
 layout: home
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -39,8 +38,11 @@ layout: home
 </head>
 <body>
 
-write hewo h
+<centre>
 
-<button class="button button1" onclick="window.location='https://google.com'">Green</button>
+<p style="font-family: Helvetica">Hello there!👋
+<p> I'm codeoffun and I know a little bit of coding!
+<p>
+<button class="button button1" onclick="window.location='https://codeoffun.ddns.net/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/'">Cool page</button>
 </body>
 </html>
