@@ -5,10 +5,14 @@ permalink: /codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffu
 ---
 <h2> here's a cool button! </h2>
 
+<td align="right" style="vertical-align: top;">
+
 <html>
 <head>
 
-{% include favicon.html %}
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+
 
 <style>
 .button {
@@ -41,9 +45,9 @@ permalink: /codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffu
 </head>
 <body>
 
-write here
 
-<button class="button button1" onclick="window.location='https://google.com'">button here</button>
+<button class="button button1" onclick="window.location='https://google.com'"> <i class="fa fa-bars"></i> </button>
 </body>
+</td>
 </html>
 
