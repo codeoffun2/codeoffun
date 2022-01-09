@@ -8,7 +8,7 @@ layout: home
 <html>
 <head>
 <style>
-
+<meta name="google-site-verification" content="oDxukBkdlE7rzN-YU0phS7LTeVIG1ZGbeS62fjbs3q8" />
 .button {
   background-color: #65C8FF; /* Green */
   border: none;
