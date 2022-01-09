@@ -39,7 +39,7 @@ layout: home
 </head>
 <body>
 
-write hewo
+write hewo h
 
 <button class="button button1" onclick="window.location='https://google.com'">Green</button>
 </body>
