@@ -4,7 +4,9 @@
 
 layout: home
 ---
-<style type="text/css">
+
+<link href="{{site.baseurl}}/css/main.css" rel="stylesheet">
+
 border: 2px solid #65C8FF;
 }
 
