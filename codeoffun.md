@@ -7,6 +7,9 @@ permalink: /codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffu
 
 <html>
 <head>
+
+{% include favicon.html %}
+
 <style>
 .button {
   background-color: #65C8FF; /* Green */
