@@ -5,8 +5,6 @@ permalink: /codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffu
 ---
 <h2> here's a cool button! </h2>
 
-<td align="right" style="vertical-align: top;">
-
 <html>
 <head>
 
@@ -45,9 +43,10 @@ permalink: /codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffu
 </head>
 <body>
 
+<div class="topright">
 
 <button class="button button1" onclick="window.location='https://google.com'"> <i class="fa fa-bars"></i> </button>
-</td> 
+</div>
 </body>
 </html>
 
