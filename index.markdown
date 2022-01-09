@@ -43,8 +43,8 @@ layout: home
 <div align="center">
 
 <p style="font-family: Helvetica">Hello there!👋
-<p> I'm codeoffun and I know a little bit of coding!
-<p>
+<br> I'm codeoffun and I know a little bit of coding!
+<br>
 <button class="button button1" onclick="window.location='https://codeoffun.ddns.net/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/'">Cool page</button>
 </p> 
 </div>
