@@ -43,7 +43,7 @@ permalink: /codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffu
 </head>
 <body>
 
-<div class="topright">
+<div style="float:right" >
 
 <button class="button button1" onclick="window.location='https://google.com'"> <i class="fa fa-bars"></i> </button>
 </div>
