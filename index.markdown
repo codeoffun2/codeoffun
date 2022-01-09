@@ -46,3 +46,4 @@ layout: home
 <p>
 <button class="button button1" onclick="window.location='https://codeoffun.ddns.net/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/'">Cool page</button>
 </div>
+hi
