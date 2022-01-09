@@ -8,7 +8,7 @@ layout: home
 <html>
 <head>
 <style>
-<center>
+
 .button {
   background-color: #65C8FF; /* Green */
   border: none;
@@ -44,4 +44,4 @@ layout: home
 <p> I'm codeoffun and I know a little bit of coding!
 <p>
 <button class="button button1" onclick="window.location='https://codeoffun.ddns.net/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/codeoffun/'">Cool page</button>
-</center>
+{: style="color:gray; font-size: 80%; text-align: center;"}
