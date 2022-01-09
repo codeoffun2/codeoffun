@@ -7,6 +7,9 @@ layout: home
 
 <html>
 <head>
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+
 <meta name="google-site-verification" content="oDxukBkdlE7rzN-YU0phS7LTeVIG1ZGbeS62fjbs3q8" />
 <style>
 
