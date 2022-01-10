@@ -3,7 +3,7 @@ layout: page
 permalink: /notarickroll/
 title: notarickroll
 ---
-<!DOCTYPE html>
+
 <html>
    <head>
   
