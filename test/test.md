@@ -19,8 +19,6 @@ permalink: /test/
 <body style="background-color:#81D8D0;">
 
 
-
-
 <html>
 <head>
 <style>
@@ -98,24 +96,34 @@ body {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-  @media screen and (max-width:600px){
-   .button {
-      display: block;
-   
-  }
+.mobileShow {display: none;} 
+
+  /* Smartphone Portrait and Landscape */ 
+
+
+  @media only screen and (max-width: 400px) {
+    .mobileShow {display: inline;}
+}
+
+ @media only screen and (max-width: 640px) {
+ .hide-mobile 
+ {display:none;}
+
 }
 </style>
 </head>
 <body>
 
 <div class="topnav">
+<p class="hide-mobile">
   <a class="active" href="#home">Home</a>
   <a href="#">Projects</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
   <div style="float:right" >
+    </p>
 <div class="dropdown">
-  <div class="button">
+<div class="mobileShow">
     <button class="dropbtn">
       <i class="fa fa-bars"></i>
     </button>
@@ -127,7 +135,7 @@ body {
     </div>
   </div>
 </div>
-  </div>
+</div>
 
 
 </body>
@@ -142,6 +150,5 @@ body {
 <br> I'm codeoffun and I know a little bit of coding!
 <br>
 
-</p> 
-
+</p>
 
