@@ -101,7 +101,7 @@ body {
 </div>
 <div class="navbar">'
 <a href="https://codeoffun.ddns.net/">Home</a>
-
+  </div>
 
 </body>
 </html>
@@ -110,7 +110,6 @@ body {
 
 
 <div align="center">
-<div class="main">
 <p style="font-family: Helvetica">Hello there!👋
 <br> I'm codeoffun and I know a little bit of coding!
 <br>
