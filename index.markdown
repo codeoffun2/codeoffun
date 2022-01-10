@@ -53,9 +53,9 @@ body {
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="#">Projects</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <a href="https://codeoffun.ddns.net/projects">Projects</a>
+  <a href="https://codeoffun.ddns.net/projects">Contact</a>
+  <a href="https://codeoffun.ddns.net/projects">About</a>
 </div>
 
 
@@ -68,7 +68,7 @@ body {
 
 
 <div align="center">
-<p style="font-family: Helvetica">Hello there!👋
+<p style="font-family: Helvetica"> Hello there!👋
 <br> I'm codeoffun and I know a little bit of coding!
 <br>
 
