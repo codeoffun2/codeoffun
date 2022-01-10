@@ -11,6 +11,20 @@ permalink: /test/
 
 
 
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+
+
+
+
+
+
+
 
 <html>
 <head>
@@ -119,11 +133,12 @@ body {
 
 <div class="topnav">
 <div id="content-desktop">
-  <a href="https:codeoffun.ddns.net">Home</a>
+  <a class="active" href="https:codeoffun.ddns.net">Home</a>
   <a href="https://codeoffun.ddns.net/projects">Projects</a>
   <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
+    <a href="https://codeoffun.ddns.net/contact">Contact</a>
   <a href="https://codeoffun.ddns.net/about">About</a>
-  <a class="active" href="https://codeoffun.ddns.net/test">Test page</a>  
+  <a href="https://codeoffun.ddns.net/test">Test page</a>  
   </div>
 <div id="content-mobile">
  <div style="float:right" >
@@ -136,7 +151,9 @@ body {
     <div class="dropdown-content">
       <a href="https://codeoffun.ddns.net/projects">Projects</a>
       <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
+        <a href="https://codeoffun.ddns.net/Contact">Contact</a>
       <a href="https://codeoffun.ddns.net/about">About</a>   
+        <a href="https://codeoffun.ddns.net/test">Test Page</a>
   </div> 
     </div>
   </div>
@@ -154,4 +171,6 @@ body {
 <br>
 
 </p>
+
+
 
