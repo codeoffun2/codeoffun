@@ -13,7 +13,7 @@ layout: home
 <meta name="google-site-verification" content="oDxukBkdlE7rzN-YU0phS7LTeVIG1ZGbeS62fjbs3q8" />
   <body style="background-color:#c7053d;">
    }
-
+<style>
 .dropdown-content a {
   color: black;
   padding: 12px 16px;
@@ -53,37 +53,6 @@ layout: home
 
 </body>
 </html> 
-
-
-.button {
-  background-color: #65C8FF; /* Green */
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-}
-
-.button1 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #65C8FF;
-}
-
-.button1:hover {
-  background-color: #65C8FF;
-  color: white;
-}
-
-
-</style>
-</head>
-<body>
 
 <div align="center">
 
