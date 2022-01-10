@@ -107,7 +107,7 @@ body {
   #content-desktop {display: block;}
 #content-mobile {display: none;}
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
 
 #content-desktop {display: none;}
 #content-mobile {display: block;}
@@ -120,9 +120,9 @@ body {
 <div class="topnav">
 <div id="content-desktop">
   <a class="active" href="#home">Home</a>
-  <a href="#">Projects</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <a href="https://codeoffun.ddns.net/projects">Projects</a>
+  <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
+  <a href="https://codeoffun.ddns.net/about">About</a>
   </div>
 <div id="content-mobile">
  <div style="float:right" >
