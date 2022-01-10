@@ -101,27 +101,28 @@ body {
   /* Smartphone Portrait and Landscape */ 
 
 
-  @media only screen and (max-width: 400px) {
-    .mobileShow {display: inline;}
+   @media all and (min-width: 480px) {
+    .deskContent {display:block;}
+    .phoneContent {display:none;}
 }
 
- @media only screen and (max-width: 640px) {
- .hide-mobile 
- {display:none;}
-
+@media all and (max-width: 479px) {
+    .deskContent {display:none;}
+    .phoneContent {display:block;}
 }
 </style>
 </head>
 <body>
-
+<div class="deskContent">
 <div class="topnav">
-<p class="hide-mobile">
   <a class="active" href="#home">Home</a>
   <a href="#">Projects</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
-  <div style="float:right" >
-    </p>
+  </div>
+     <div class="phoneContent">
+ <div style="float:right" >
+
 <div class="dropdown">
 <div class="mobileShow">
     <button class="dropbtn">
@@ -135,7 +136,7 @@ body {
     </div>
   </div>
 </div>
-
+  </div>
 
 
 <!-- end of button code -->
