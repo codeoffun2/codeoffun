@@ -125,7 +125,7 @@ body {
 <div id="content-mobile">
   <div style="float:left" >
 
-     <a  href="https:codeoffun.ddns.net">Codeoffun</a> </p>
+     <a  href="https://codeoffun.ddns.net">Codeoffun</a> 
     </div>
 
  <div style="float:right" >
