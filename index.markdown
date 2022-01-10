@@ -12,7 +12,7 @@ layout: home
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="oDxukBkdlE7rzN-YU0phS7LTeVIG1ZGbeS62fjbs3q8" />
   <body style="background-color:#c7053d;">
-   }
+   
 <style>
 .dropdown-content a {
   color: black;
