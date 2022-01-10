@@ -33,11 +33,25 @@ layout: home
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #333;
+  background-color: #f9f9f9;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px 
 rgba(0,0,0,0.2);
   z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  text-decoration: none;
+  font-size: 17px;
 }
 
 .navbar a:hover {
@@ -56,7 +70,7 @@ rgba(0,0,0,0.2);
   <button class="dropbtn"><i class="fa fa-bars"></i></button>
   <a href="https://codeoffun.ddns.net">Codeoffun</a>
   <div class="dropdown-content">
-  <a href="https://codeoffun.ddns.net/about">About</a>
+  <a href="#">Link 1</a>
   <a href="#">Link 2</a>
   <a href="#">Link 3</a>
   </div>
@@ -72,3 +86,6 @@ rgba(0,0,0,0.2);
 <br>
 
 </p> 
+
+
+
