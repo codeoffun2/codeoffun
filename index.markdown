@@ -52,7 +52,7 @@ body {
 }
 .dropdown {
   float: left;
-  overflow:auto
+  overflow: hidden;
 }
 
 .dropdown .dropbtn {
@@ -77,16 +77,16 @@ body {
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
- right: 0;
+  right: 0;
 }
 
 .dropdown-content a {
-  flex: true;
+  float: none;
   color: black;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
-  
+  text-align: left;
 }
 
 .dropdown-content a:hover {
@@ -95,9 +95,7 @@ body {
 
 .dropdown:hover .dropdown-content {
   display: block;
-
-
-
+}
 </style>
 </head>
 <body>
@@ -109,8 +107,7 @@ body {
   <a href="#about">About</a>
   <div style="float:right" >
 <div class="dropdown">
-  <div class="stuff">
-  <button class="dropbtn">
+    <button class="dropbtn">
       <i class="fa fa-bars"></i>
     </button>
     <div class="dropdown-content">
@@ -121,7 +118,6 @@ body {
     </div>
   </div>
 </div>
-  </div>
 
 
 
@@ -129,22 +125,15 @@ body {
 </html>
 
 
-
-
-
-
-
-
 <!-- end of button code -->
 
 
 <div align="center">
-<p style="font-family: Helvetica"> Hello there!👋
+<p style="font-family: Helvetica">Hello there!👋
 <br> I'm codeoffun and I know a little bit of coding!
 <br>
 
 </p> 
-
 
 
 
