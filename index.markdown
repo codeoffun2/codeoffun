@@ -106,6 +106,7 @@ body {
       <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
   <a href="https://codeoffun.ddns.net/contact">Contact</a>
       <a href="https://codeoffun.ddns.net/about">About</a>  
+  <a href="https://codeoffun.ddns.net/test">Test page</a>  
   <div style="float:right" >
 <div class="dropdown">
     <button class="dropbtn">
