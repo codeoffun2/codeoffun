@@ -102,9 +102,10 @@ body {
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="#">Projects</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+ <a href="https://codeoffun.ddns.net/projects">Projects</a>
+      <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
+  <a href="https://codeoffun.ddns.net/contact">Contact</a>
+      <a href="https://codeoffun.ddns.net/about">About</a>  
   <div style="float:right" >
 <div class="dropdown">
     <button class="dropbtn">
@@ -113,6 +114,7 @@ body {
     <div class="dropdown-content">
       <a href="https://codeoffun.ddns.net/projects">Projects</a>
       <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
+        <a href="https://codeoffun.ddns.net/contact">Contact</a
       <a href="https://codeoffun.ddns.net/about">About</a>   
   </div> 
     </div>
