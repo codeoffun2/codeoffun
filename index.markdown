@@ -16,6 +16,9 @@ layout: home
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body style="background-color:#81D8D0;">
 
+
+
+
 <html>
 <head>
 <style>
@@ -47,21 +50,92 @@ body {
   background-color: #81D8D0;
   color: white;
 }
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: #333;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
 </style>
 </head>
 <body>
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="https://codeoffun.ddns.net/projects">Projects</a>
-  <a href="https://codeoffun.ddns.net/projects">Contact</a>
-  <a href="https://codeoffun.ddns.net/projects">About</a>
+  <a href="#">Projects</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+  <div style="float:right" >
+<div class="dropdown">
+    <button class="dropbtn">
+      <i class="fa fa-bars"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://codeoffun.ddns.net/projects">Projects</a>
+      <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
+      <a href="https://codeoffun.ddns.net/about">About</a>   
+  </div> 
+    </div>
+  </div>
 </div>
 
 
 
 </body>
 </html>
+
+
+<!-- end of button code -->
+
+
+<div align="center">
+<p style="font-family: Helvetica">Hello there!👋
+<br> I'm codeoffun and I know a little bit of coding!
+<br>
+
+</p> 
+
+
+
 
 
 <!-- end of button code -->
