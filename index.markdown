@@ -52,7 +52,7 @@ layout: home
 
 </body>
 </html> 
-<style>
+</style>
 <div align="center">
 
 <p style="font-family: Helvetica">Hello there!👋
