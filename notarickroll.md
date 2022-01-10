@@ -10,4 +10,4 @@ title: notarickroll
       <meta http-equiv = "refresh" content = "0; url = https://www.youtube.com/watch?v=0GeQVtZ6Rd4" />
    </head>
    
-</htm
+</html>
