@@ -8,18 +8,6 @@ permalink: /test/
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <html>
 <head>
 
@@ -135,6 +123,11 @@ body {
   <a class="active" href="https://codeoffun.ddns.net/test">Test page</a>  
   </div>
 <div id="content-mobile">
+  <div style="float:left" >
+
+     <a  href="https:codeoffun.ddns.net">Codeoffun</a> </p>
+    </div>
+
  <div style="float:right" >
 
 <div class="dropdown">
@@ -160,8 +153,8 @@ body {
 
 
 <div align="center">
-<p style="font-family: Helvetica">Hello there!👋
-<br> I'm codeoffun and I know a little bit of coding!
+<p style="font-family: Helvetica">This is a testing page!
+<br>Expect things to look weird!
 <br>
 
 </p>
