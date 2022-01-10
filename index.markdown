@@ -95,6 +95,9 @@ body {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+.stuff
+  right: 0;
+top: 10px;
 </style>
 </head>
 <body>
@@ -106,7 +109,8 @@ body {
   <a href="#about">About</a>
   <div style="float:right" >
 <div class="dropdown">
-    <button class="dropbtn">
+  <div class="stuff">
+  <button class="dropbtn">
       <i class="fa fa-bars"></i>
     </button>
     <div class="dropdown-content">
@@ -117,6 +121,7 @@ body {
     </div>
   </div>
 </div>
+  </div>
 
 
 
