@@ -5,16 +5,19 @@
 layout: home
 ---
 
+
+
 <html>
 <head>
 
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="oDxukBkdlE7rzN-YU0phS7LTeVIG1ZGbeS62fjbs3q8" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body style="background-color:#81D8D0;">
 <style>
 .dropbtn {
-  background-color: #4CAF50;
+  background-color: #333;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -30,39 +33,30 @@ layout: home
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
+  background-color: #333;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px 
 rgba(0,0,0,0.2);
   z-index: 1;
 }
 
-.dropdown-content a {
+.navbar a:hover {
+  background: #ddd;
   color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
 
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-.dropdown:hover .dropbtn {
-  background-color: #3e8e41;
-}
 </style>
+
 
 <body>
 
-
-<div style="float:right" >
 <div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
+<div class="navbar">
+  <button class="dropbtn"><i class="fa fa-bars"></i></button>
+  <a href="https://codeoffun.ddns.net">Codeoffun</a>
   <div class="dropdown-content">
-  <a href="#">Link 1</a>
+  <a href="https://codeoffun.ddns.net/about">About</a>
   <a href="#">Link 2</a>
   <a href="#">Link 3</a>
   </div>
@@ -72,11 +66,9 @@ rgba(0,0,0,0.2);
 
 
 <div align="center">
-
+<div class="main">
 <p style="font-family: Helvetica">Hello there!👋
 <br> I'm codeoffun and I know a little bit of coding!
 <br>
 
 </p> 
-
-
