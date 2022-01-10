@@ -52,13 +52,13 @@ layout: home
 
 </body>
 </html> 
-
+<style>
 <div align="center">
 
 <p style="font-family: Helvetica">Hello there!👋
 <br> I'm codeoffun and I know a little bit of coding!
 <br>
-<style>
+
 </p> 
 </div>
 hi
