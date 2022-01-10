@@ -145,7 +145,7 @@ body {
     <div class="dropdown-content">
       <a href="https://codeoffun.ddns.net/projects">Projects</a>
       <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
-        <a href="https://codeoffun.ddns.net/contact">Contact</a>
+        <a href="https://codeoffun.ddns.net/contact">contact</a>
       <a href="https://codeoffun.ddns.net/about">About</a>   
         <a href="https://codeoffun.ddns.net/test">Test Page</a>
   </div> 
