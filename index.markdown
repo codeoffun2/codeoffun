@@ -21,7 +21,7 @@ layout: home
 <meta name="google-site-verification" content="oDxukBkdlE7rzN-YU0phS7LTeVIG1ZGbeS62fjbs3q8" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body style="background-color:#81D8D0;">
-
+<link href='https://fonts.googleapis.com/css?family=Unica One' rel='stylesheet'>
 
 <html>
 <head>
@@ -128,6 +128,11 @@ body {
   <a href="https://codeoffun.ddns.net/test">Test page</a>  
   </div>
 <div id="content-mobile">
+  <div style="float:left" >
+
+     <a  href="https:codeoffun.ddns.net">Codeoffun</a> </p>
+    </div>
+
  <div style="float:right" >
 
 <div class="dropdown">
@@ -156,8 +161,13 @@ body {
 <p style="font-family: Helvetica">Hello there!👋
 <br> I'm codeoffun and I know a little bit of coding!
 <br>
+<p style="font-family: Unica One">
+hi
 
 </p>
+
+
+
 
 
 
