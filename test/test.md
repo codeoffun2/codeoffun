@@ -127,12 +127,12 @@ body {
 
 <div class="topnav">
 <div id="content-desktop">
-  <a class="active" href="https:codeoffun.ddns.net">Home</a>
+  <a href="https:codeoffun.ddns.net">Home</a>
   <a href="https://codeoffun.ddns.net/projects">Projects</a>
   <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
     <a href="https://codeoffun.ddns.net/contact">Contact</a>
   <a href="https://codeoffun.ddns.net/about">About</a>
-  <a href="https://codeoffun.ddns.net/test">Test page</a>  
+  <a class="active" href="https://codeoffun.ddns.net/test">Test page</a>  
   </div>
 <div id="content-mobile">
  <div style="float:right" >
