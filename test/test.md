@@ -135,11 +135,7 @@ body {
     </div>
   </div>
 </div>
-</div>
 
-
-</body>
-</html>
 
 
 <!-- end of button code -->
