@@ -9,6 +9,9 @@ permalink: /test/
 
 
 
+
+
+
 <html>
 <head>
 
@@ -100,31 +103,32 @@ body {
 
   /* Smartphone Portrait and Landscape */ 
 
-
-   @media all and (min-width: 480px) {
-    .deskContent {display:block;}
-    .phoneContent {display:none;}
 }
+  #content-desktop {display: block;}
+#content-mobile {display: none;}
 
-@media all and (max-width: 479px) {
-    .deskContent {display:none;}
-    .phoneContent {display:block;}
+@media screen and (max-width: 768px) {
+
+#content-desktop {display: none;}
+#content-mobile {display: block;}
+
 }
 </style>
 </head>
 <body>
-<div class="deskContent">
+
 <div class="topnav">
+<div id="content-desktop">
   <a class="active" href="#home">Home</a>
   <a href="#">Projects</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
   </div>
-     <div class="phoneContent">
+<div id="content-mobile">
  <div style="float:right" >
 
 <div class="dropdown">
-<div class="mobileShow">
+
     <button class="dropbtn">
       <i class="fa fa-bars"></i>
     </button>
@@ -137,6 +141,7 @@ body {
   </div>
 </div>
   </div>
+  <div>
 
 
 <!-- end of button code -->
