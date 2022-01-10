@@ -52,7 +52,7 @@ body {
 }
 .dropdown {
   float: left;
-  overflow: hidden;
+  overflow:auto
 }
 
 .dropdown .dropbtn {
@@ -77,15 +77,16 @@ body {
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
+ right: 0;
 }
 
 .dropdown-content a {
-  float: none;
+  flex: true;
   color: black;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
-  text-align: left;
+  
 }
 
 .dropdown-content a:hover {
@@ -94,10 +95,9 @@ body {
 
 .dropdown:hover .dropdown-content {
   display: block;
-}
-.stuff
-  right: 0;
-top: 10px;
+
+
+
 </style>
 </head>
 <body>
@@ -144,6 +144,7 @@ top: 10px;
 <br>
 
 </p> 
+
 
 
 
