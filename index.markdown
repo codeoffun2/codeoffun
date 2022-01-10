@@ -30,13 +30,12 @@ layout: home
 .dropdown:hover .dropbtn {
   background-color: #3e8e41;
 }
-</style>
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css%22%3E
 </head>
 <body>
 
-<h2>Dropdown Menu</h2>
-<p>Move the mouse over the button to open the dropdown menu.</p>
+
 
 <div class="dropdown" "topright">
   <button class="dropbtn"><i class="fa fa-bars"></i></button>
@@ -59,7 +58,7 @@ layout: home
 <p style="font-family: Helvetica">Hello there!👋
 <br> I'm codeoffun and I know a little bit of coding!
 <br>
-
+<style>
 </p> 
 </div>
 hi
