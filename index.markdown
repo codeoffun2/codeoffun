@@ -97,11 +97,12 @@ body {
       <a href="https://codeoffun.ddns.net/projects">Projects</a>
       <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
       <a href="https://codeoffun.ddns.net/about">About</a>   
-  </div> 
-</div>
-<div class="navbar">'
+      <div class="navbar">'
 <a href="https://codeoffun.ddns.net/">Home</a>
   </div>
+  </div> 
+</div>
+
 
 </body>
 </html>
