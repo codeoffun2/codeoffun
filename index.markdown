@@ -11,9 +11,31 @@ layout: home
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="oDxukBkdlE7rzN-YU0phS7LTeVIG1ZGbeS62fjbs3q8" />
-  <body style="background-color:#81D8D0;">
-   
+  <body style="background-color:#81D8D0;"<!DOCTYPE html>
+<html>
+<head>
+<style>
+<div style="float:right" >
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
 
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
 
@@ -24,40 +46,9 @@ layout: home
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {background-color: #f1f1f1} </div>
 
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-.dropdown:hover .dropbtn {
-  background-color: #3e8e41;
-}
-</style>
-</head>
-<body>
-
-<h2>Dropdown Menu</h2>
-<p>Move the mouse over the button to open the dropdown menu.</p>
-
-<div class="dropdown">
-  <button class="dropbtn">Dropdown</button>
-  <div class="dropdown-content">
-  <a href="#">Link 1</a>
-  <a href="#">Link 2</a>
-  <a href="#">Link 3</a>
-  </div>
-</div>
-
-<p><strong>Note:</strong> We use href="#" for test links. In a real web site this would be URLs.</p>
-
-</body>
-</html>
-
-
-
-<div style="float:right" >stuff </div>
-
+<!-- end of button code -->
 
 
 <div align="center">
