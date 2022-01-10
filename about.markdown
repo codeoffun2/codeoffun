@@ -4,6 +4,16 @@ title: About
 permalink: /about/
 ---
 
+
+
+
+
+
+
+
+
+
+
 <html>
 <head>
 
@@ -12,8 +22,6 @@ permalink: /about/
 <meta name="google-site-verification" content="oDxukBkdlE7rzN-YU0phS7LTeVIG1ZGbeS62fjbs3q8" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body style="background-color:#81D8D0;">
-
-
 
 
 <html>
@@ -93,41 +101,67 @@ body {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+.mobileShow {display: none;} 
+
+  /* Smartphone Portrait and Landscape */ 
+
+}
+  #content-desktop {display: block;}
+#content-mobile {display: none;}
+
+@media screen and (max-width: 600px) {
+
+#content-desktop {display: none;}
+#content-mobile {display: block;}
+
+}
 </style>
 </head>
 <body>
 
 <div class="topnav">
-  <a href="https://codeoffun.ddns.net">Home</a>
+<div id="content-desktop">
+  <a class="active" href="https:codeoffun.ddns.net">Home</a>
   <a href="https://codeoffun.ddns.net/projects">Projects</a>
-  <a href="https://codeoffun.ddns.net/tutorials=">Tutorials</a>
-  <a href="https://codeoffun.ddns.net/contact=">Contact</a>
-  <a class="active" href="https://codeoffun.ddns.net/about">About</a>
+  <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
+    <a href="https://codeoffun.ddns.net/contact">Contact</a>
+  <a href="https://codeoffun.ddns.net/about">About</a>
+  <a href="https://codeoffun.ddns.net/test">Test page</a>  
+  </div>
+<div id="content-mobile">
+ <div style="float:right" >
 
-  <div style="float:right" >
 <div class="dropdown">
+
     <button class="dropbtn">
       <i class="fa fa-bars"></i>
     </button>
     <div class="dropdown-content">
       <a href="https://codeoffun.ddns.net/projects">Projects</a>
       <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
-     
-  <a href="codeoffun.ddns.net/contact=">Contact</a>
+        <a href="https://codeoffun.ddns.net/Contact">Contact</a>
       <a href="https://codeoffun.ddns.net/about">About</a>   
+        <a href="https://codeoffun.ddns.net/test">Test Page</a>
   </div> 
     </div>
   </div>
 </div>
-
-
-
-</body>
-</html>
+  </div>
+  <div>
 
 
 <!-- end of button code -->
 
 
 <div align="center">
+<p style="font-family: Helvetica">
+
+
+
+
+
+
+
+<div align="center">
 I'm codeoffun, a amature expert!
+  </p>
