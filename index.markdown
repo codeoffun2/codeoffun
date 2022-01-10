@@ -57,8 +57,6 @@ rgba(0,0,0,0.2);
 </head>
 <body>
 
-<h2>Dropdown Menu</h2>
-<p>Move the mouse over the button to open the dropdown menu.</p>
 
 <div style="float:right" >
 <div class="dropdown">
@@ -81,4 +79,4 @@ rgba(0,0,0,0.2);
 
 </p> 
 
-hi
+
