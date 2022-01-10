@@ -102,7 +102,7 @@ body {
   <a href="codeoffun.ddns.net/projects">Projects</a>
   <a href="codeoffun.ddns.net/tutorials=">Tutorials</a>
   <a href="codeoffun.ddns.net/contact=">Contact</a>
-  <a class"active" href="codeoffun.ddns.net/about">About</a>
+  <a class="active" href="codeoffun.ddns.net/about">About</a>
 
   <div style="float:right" >
 <div class="dropdown">
