@@ -54,7 +54,7 @@ rgba(0,0,0,0.2);
   background-color: #3e8e41;
 }
 </style>
-</head>
+
 <body>
 
 
