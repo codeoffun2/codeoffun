@@ -124,15 +124,7 @@ body {
 </html>
 
 
-<!-- end of button code -->
 
-
-<div align="center">
-<p style="font-family: Helvetica">Hello there!👋
-<br> I'm codeoffun and I know a little bit of coding!
-<br>
-
-</p> 
 
 
 
