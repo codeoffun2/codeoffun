@@ -96,6 +96,12 @@ body {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+  @media screen and (max-width:600px){
+   .button {
+      display: block;
+   
+  }
+}
 </style>
 </head>
 <body>
@@ -107,6 +113,7 @@ body {
   <a href="#about">About</a>
   <div style="float:right" >
 <div class="dropdown">
+  <div class="button">
     <button class="dropbtn">
       <i class="fa fa-bars"></i>
     </button>
@@ -118,7 +125,7 @@ body {
     </div>
   </div>
 </div>
-
+  </div>
 
 
 </body>
