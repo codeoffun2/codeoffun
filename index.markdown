@@ -162,7 +162,9 @@ body {
 <br> I'm codeoffun and I know a little bit of coding!
 <br>
 <p style="font-family: Unica One">
-hi
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6624702422509627"
+     crossorigin="anonymous"></script>
 
 </p>
 
