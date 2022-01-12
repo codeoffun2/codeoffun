@@ -129,7 +129,7 @@ body {
 
 <div class="topnav">
 <div id="content-desktop">
-  <a class="active" href="https:codeoffun.ddns.net">Home</a>
+  <a class="active" href="https://codeoffun.ddns.net">Home</a>
   <a href="https://codeoffun.ddns.net/projects">Projects</a>
   <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
     <a href="https://codeoffun.ddns.net/contact">Contact</a>
