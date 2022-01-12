@@ -2,7 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
+title: tutorials
+permalink: /tutorials/
 ---
 
 
@@ -164,7 +166,7 @@ body {
 </p> /sitemap.xml
 <p style="font-family: Unica One">
 
-hi
+hi tutorials go here
 </p>
 
 
