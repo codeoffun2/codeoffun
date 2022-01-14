@@ -4,7 +4,7 @@ permalink: /duinowallet/
 title: Duino wallet
 ---
 
-<!DOCTYPE html>
+
 <html>
 
 <head>
