@@ -118,9 +118,9 @@ body {
 }
 </style>
 </head>
-<body>
+<body> 
 
-<div class="topnav">
+<div class="topnav"> 
 <div id="content-desktop">
   <a href="https://codeoffun.ddns.net">Home</a>
   <a href="https://codeoffun.ddns.net/projects">Projects</a>
@@ -163,7 +163,7 @@ body {
 <p style="font-family: Helvetica">Hello there!👋
 <br> I'm codeoffun and I know a little bit of coding!
 <br>
-</p> /sitemap.xml
+</p>
 <p style="font-family: Unica One">
 
 hi tutorials go here
