@@ -17,4 +17,12 @@ title:
 <link href='https://fonts.googleapis.com/css?family=Unica One' rel='stylesheet'>
 
   
-<a download="download.txt">
+
+<script>
+window.onload = function(){
+  var a = document.createElement("a");
+  a.href = "/downloads/download.txt";
+  a.download = true;
+  a.click();
+};
+</script>
