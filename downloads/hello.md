@@ -22,7 +22,7 @@ title:
 window.onload = function(){
   var a = document.createElement("a");
   a.href = "/downloads/download.txt";
-  a.download = true;
+  a.download 
   a.click();
 };
 </script>
