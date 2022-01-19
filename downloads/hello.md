@@ -18,11 +18,4 @@ title:
 
   
 
-<script>
-window.onload = function(){
-  var a = document.createElement("a");
-  a.href = "/downloads/download.txt";
-  a.download 
-  a.click();
-};
-</script>
+<a href="download.txt">Please wait...</a>
