@@ -17,4 +17,4 @@ title:
 <link href='https://fonts.googleapis.com/css?family=Unica One' rel='stylesheet'>
 
   
-<a download href="download.txt">
+<a download="download.txt">
