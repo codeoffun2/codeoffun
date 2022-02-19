@@ -105,7 +105,7 @@ body {
   /* Smartphone Portrait and Landscape */ 
 
 }
-  code {
+code {
   font-family: Consolas,"courier new";
   color: crimson;
   background-color: #f1f1f1;
@@ -173,6 +173,7 @@ body {
 <br> I'm codeoffun and I know a little bit of coding!
 <br>
 Minecraft server
+  <br>
   <code>0.tcp.ngrok.io:11343</code> 
   </p>
 
