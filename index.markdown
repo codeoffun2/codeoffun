@@ -134,7 +134,7 @@ body {
 <div id="content-mobile">
   <div style="float:left" >
 
-     <a  href="https://codeoffun.ddns.net">Codeoffun</a> 
+     <a  href="https://codeoffun.ddns.net"> <i class="fa fa-home"></i> </a> 
     </div>
 
  <div style="float:right" >
