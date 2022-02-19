@@ -105,6 +105,13 @@ body {
   /* Smartphone Portrait and Landscape */ 
 
 }
+  code {
+  font-family: Consolas,"courier new";
+  color: crimson;
+  background-color: #f1f1f1;
+  padding: 2px;
+  font-size: 105%;
+}
   #content-desktop {display: block;}
 #content-mobile {display: none;}
 
@@ -165,10 +172,9 @@ body {
 <p style="font-family: Helvetica">Hello there!👋
 <br> I'm codeoffun and I know a little bit of coding!
 <br>
-</p> /sitemap.xml
-
-
-</p>
+Minecraft server
+  <code>0.tcp.ngrok.io:11343</code> 
+  </p>
 
 
 
