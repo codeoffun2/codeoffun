@@ -172,9 +172,7 @@ code {
 <p style="font-family: Helvetica">Hello there!👋
 <br> I'm codeoffun and I know a little bit of coding!
 <br>
-Minecraft server
-  <br>
-  <code>0.tcp.ngrok.io:11343</code> 
+
   </p>
 
 
