@@ -156,7 +156,7 @@ code {
       <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
         <a href="https://codeoffun.ddns.net/contact">Contact</a>
       <a href="https://codeoffun.ddns.net/about">About</a>   
-        <a href="https://codeoffun.ddns.net/blog">blog</a>
+        <a href="https://codeoffun.ddns.net/blog">Blog</a>
   </div> 
     </div>
   </div>
