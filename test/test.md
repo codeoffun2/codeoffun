@@ -18,7 +18,7 @@ permalink: /test/
 <meta property="og:title" content="Site Title" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://my.site.com" />
-<meta property="og:image" content="http://my.site.com/images/thumb.png" />
+<meta property="og:image" content="https://raw.githubusercontent.com/codeoffun2/codeoffun/gh-pages/favicon.ico" />
 <meta property="og:description" content="Site description" />
 <meta name="theme-color" content="#FF0000">
 <!-- Include this to make the og:image larger -->
