@@ -127,12 +127,12 @@ body {
   <a class="active" href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
     <a href="https://codeoffun.ddns.net/contact">Contact</a>
   <a href="https://codeoffun.ddns.net/about">About</a>
-  <a href="https://codeoffun.ddns.net/test">Test page</a>  
+  <a href="https://codeoffun.ddns.net/blog">Blog</a>  
   </div>
 <div id="content-mobile">
   <div style="float:left" >
 
-     <a  href="https://codeoffun.ddns.net">Codeoffun</a> 
+     <a  href="https://codeoffun.ddns.net"> <i class="fa fa-home"> </i> </a> 
     </div>
 
  <div style="float:right" >
@@ -147,7 +147,7 @@ body {
       <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
         <a href="https://codeoffun.ddns.net/contact">Contact</a>
       <a href="https://codeoffun.ddns.net/about">About</a>   
-        <a href="https://codeoffun.ddns.net/test">Test Page</a>
+        <a href="https://codeoffun.ddns.net/blog">Blog</a>
   </div> 
     </div>
   </div>
