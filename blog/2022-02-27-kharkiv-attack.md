@@ -4,7 +4,7 @@
 
 layout: page
 title: "test"
-permalink: /blog/Kharkiv-Attack
+permalink: /blog/kharkiv-attack
 ---
 
 
@@ -163,13 +163,13 @@ body {
 
 <div align="center">
 <p style="font-family: Helvetica"> Ukraine invasion in Kharkiv
-<br> <h1 style="font-size:6px; color: #808080"> 27 February 2022, 12:32 EST</h1>
+<br> <h1 style="font-size:9px; color: #808080"> 27 February 2022, 12:32 EST</h1>
 <br> <p>Regional governor Oleh Synehubov says that the city is now cleared after a fight.
 </p>
-<br> <p> Thousands of citizens have been forced to seek shelter in basements for hours.
+ <p> Thousands of citizens have been forced to seek shelter in basements for hours.
 </p> 
-<br> <p> A nine story building was also hit. 60 people survived by hiding in the basement.
+ <p> A nine story building was also hit. 60 people survived by hiding in the basement.
 </p>
-<br> <p> Russian troops have also blown up a natural gas pipeline nearby.
+ <p> Russian troops have also blown up a natural gas pipeline nearby.
 </p>
 <br> <p> 
