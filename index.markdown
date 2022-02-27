@@ -141,7 +141,7 @@ code {
 <div id="content-mobile">
   <div style="float:left" >
 
-     <a  href="https://codeoffun.ddns.net"> <i class="fa fa-home"></i> </a> 
+     <a  href="https://codeoffun.ddns.net"></i> <i class="fa fa-home"> </a> 
     </div>
 
  <div style="float:right" >
@@ -167,8 +167,6 @@ code {
 
 <!-- end of button code -->
 
-
-<div align="center">
 <p style="font-family: Helvetica">Hello there!👋
 <br> I'm codeoffun and I know a little bit of coding!
 <br>
