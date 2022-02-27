@@ -136,7 +136,7 @@ code {
   <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
     <a href="https://codeoffun.ddns.net/contact">Contact</a>
   <a href="https://codeoffun.ddns.net/about">About</a>
-  <a href="https://codeoffun.ddns.net/test">Test page</a>  
+  <a href="https://codeoffun.ddns.net/blog">Blog</a>  
   </div>
 <div id="content-mobile">
   <div style="float:left" >
@@ -156,7 +156,7 @@ code {
       <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
         <a href="https://codeoffun.ddns.net/contact">Contact</a>
       <a href="https://codeoffun.ddns.net/about">About</a>   
-        <a href="https://codeoffun.ddns.net/test">Test Page</a>
+        <a href="https://codeoffun.ddns.net/blog">blog</a>
   </div> 
     </div>
   </div>
