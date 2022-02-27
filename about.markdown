@@ -158,8 +158,6 @@ body {
 
 <!-- end of button code -->
 
-
-<div align="center">
 <p style="font-family: Helvetica">
 
 
@@ -170,4 +168,4 @@ body {
 
 <div align="center">
 I'm codeoffun, a amature expert!
-  
+I'm experienced in Arduinos,esps, you name it! 
