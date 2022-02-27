@@ -132,7 +132,7 @@ body {
 
 <div style="float:left" >
 
-     <a  href="https://codeoffun.ddns.net"> <i class="fa fa-home"> </a> 
+     <a  href="https://codeoffun.ddns.net"> <i class="fa fa-home"> </i> </a> 
     </div>
 
  <div style="float:right" >
@@ -145,7 +145,7 @@ body {
     <div class="dropdown-content">
       <a href="https://codeoffun.ddns.net/projects">Projects</a>
       <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
-        <a href="https://codeoffun.ddns.net/contact">contact</a>
+        <a href="https://codeoffun.ddns.net/contact">Contact</a>
       <a href="https://codeoffun.ddns.net/about">About</a>   
         <a href="https://codeoffun.ddns.net/blog">Blog</a>
   </div> 
