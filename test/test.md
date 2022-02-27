@@ -14,6 +14,15 @@ permalink: /test/
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="oDxukBkdlE7rzN-YU0phS7LTeVIG1ZGbeS62fjbs3q8" />
+
+<meta property="og:title" content="Site Title" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://my.site.com" />
+<meta property="og:image" content="http://my.site.com/images/thumb.png" />
+<meta property="og:description" content="Site description" />
+<meta name="theme-color" content="#FF0000">
+<!-- Include this to make the og:image larger -->
+<meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body style="background-color:#81D8D0;">
 
