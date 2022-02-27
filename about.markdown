@@ -147,7 +147,7 @@ body {
       <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
         <a href="https://codeoffun.ddns.net/contact">contact</a>
       <a href="https://codeoffun.ddns.net/about">About</a>   
-        <a href="https://codeoffun.ddns.net/test">Test Page</a>
+        <a href="https://codeoffun.ddns.net/blog">Blog</a>
   </div> 
     </div>
   </div>
@@ -166,6 +166,6 @@ body {
 
 
 
-<div align="center">
+
 I'm codeoffun, a amature expert!
 I'm experienced in Arduinos,esps, you name it! 
