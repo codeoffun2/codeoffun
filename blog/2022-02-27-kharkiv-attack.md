@@ -15,12 +15,11 @@ permalink: /blog/kharkiv-attack
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="oDxukBkdlE7rzN-YU0phS7LTeVIG1ZGbeS62fjbs3q8" />
 
-<meta property="og:title" content="Site Title" />
+<meta property="og:title" content="Codeoffuns Blog" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://my.site.com" />
 <meta property="og:image" content="https://raw.githubusercontent.com/codeoffun2/codeoffun/gh-pages/favicon.ico" />
-<meta property="og:description" content="Site description" />
-<meta name="theme-color" content="#FFFFFF">
+<meta property="og:description" content="The city of Kharkiv..."
 <!-- Include this to make the og:image larger -->
 <meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -161,7 +160,7 @@ body {
 <!-- end of button code -->
 
 
-<div align="center">
+<div align="left">
 <p style="font-family: Helvetica"> Ukraine invasion in Kharkiv
 <br> <h1 style="font-size:9px; color: #808080"> 27 February 2022, 12:32 EST</h1>
 <br> <p>Regional governor Oleh Synehubov says that the city is now cleared after a fight.
