@@ -129,7 +129,7 @@ body {
   <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
     <a href="https://codeoffun.ddns.net/contact">Contact</a>
   <a href="https://codeoffun.ddns.net/about">About</a>
-  <a class="active" href="https://codeoffun.ddns.net/test">Test page</a>  
+  <a class="active" href="https://codeoffun.ddns.net/blog">Blog</a>  
   </div>
 <div id="content-mobile">
  <div style="float:left" >
@@ -149,7 +149,7 @@ body {
       <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
         <a href="https://codeoffun.ddns.net/contact">Contact</a>
       <a href="https://codeoffun.ddns.net/about">About</a>   
-        <a href="https://codeoffun.ddns.net/test">Test Page</a>
+        <a href="https://codeoffun.ddns.net/blog">Blog</a>
   </div> 
     </div>
   </div>
@@ -160,8 +160,6 @@ body {
 
 <!-- end of button code -->
 
-
-<div align="center">
 <p style="font-family: Helvetica">This is a testing page!
 <br>Expect things to look weird!
 <br>
