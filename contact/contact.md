@@ -125,7 +125,7 @@ body {
 <div id="content-mobile">
   <div style="float:left" >
 
-     <a  href="https://codeoffun.ddns.net">Codeoffun</a> 
+     <a  href="https://codeoffun.ddns.net"> <i class="fa fa-home"> </i></a> 
     </div>
 
  <div style="float:right" >
@@ -151,13 +151,12 @@ body {
 
 <!-- end of button code -->
 
-
-<div align="center">
-<p style="font-family: Helvetica">Currently empty :)
+<p style="font-family: Helvetica">
 <br> 
 <br>
 <p style="font-family: Unica One">
-hi
+Email: codeoffun2@gmail.com
+Discord: codeoffun#8621
 
 </p>
 
