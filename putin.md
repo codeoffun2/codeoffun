@@ -129,7 +129,7 @@ body {
   <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
     <a href="https://codeoffun.ddns.net/contact">Contact</a>
   <a href="https://codeoffun.ddns.net/about">About</a>
-  <a class="active" href="https://codeoffun.ddns.net/test">Test page</a>  
+  <a href="https://codeoffun.ddns.net/test">Test page</a>  
   </div>
 <div id="content-mobile">
  <div style="float:left" >
@@ -165,4 +165,4 @@ body {
 <p style="font-family: Helvetica">Why putin is very bad:
 <br>1. Putin is too strong and he has big bomb that go boom
 <br>2. He is scaring away pigeons 
-<br>3. He break buildings
+<br>3. He broke my friend Eric's house
