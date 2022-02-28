@@ -117,7 +117,7 @@ body {
 }
 
 a:link {
-  color: green;
+  color: #FF0000;
   background-color: transparent;
   text-decoration: none;
 }
@@ -170,6 +170,7 @@ a:link {
 
 
 Recent blogs:
+<br>
 <br>
 Kharkiv attack
 <br> 
