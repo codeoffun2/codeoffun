@@ -177,40 +177,40 @@ body {
   </p>
   <h2> Code: </h2>
   <br>
-  <p> <code> /* Led stoplight
-
-  Wiring:
-  -----------------------------
-  |Arduino pin |Leds          |
-  |------------|---------------
-  |     2      |green led  (+)|
-  |     3      |yellow led (+)|
-  |     4      |red led    (+)|
-  |    gnd     |all 3 leds (-)|
-  -----------------------------
-*/
-int green = 2;
-int yellow = 3;
-int red = 4;
-void setup() {
-  // initialize digital pins as an output.
-  pinMode(green, OUTPUT);
-  pinMode(yellow, OUTPUT);
-  pinMode(red, OUTPUT);
-}
-
-// the loop function runs over and over again forever
-void loop() {
-  digitalWrite(green, HIGH);  //turn on the green led
-  delay(5000);                //delays 5 seconds
-  digitalWrite(green, LOW);   //turns the led off
-  digitalWrite(yellow, HIGH); //turns the yellow led on
-  delay(5000);                //delays 5 seconds
-  digitalWrite(yellow, LOW);  //turns the led off
-  digitalWrite(red, HIGH);    //turns the red led on
-  delay(5000);                //delays 5 seconds
-  digitalWrite(red, LOW);     //turns the led off
-    } </code>
+  <p> <code> /* Led stoplight<br>
+<br>
+  Wiring:<br>
+  -----------------------------<br>
+  |Arduino pin |Leds          |<br>
+  |------------|---------------<br>
+  |     2      |green led  (+)|<br>
+  |     3      |yellow led (+)|<br>
+  |     4      |red led    (+)|<br>
+  |    gnd     |all 3 leds (-)|<br>
+  -----------------------------<br>
+*/<br>
+int green = 2;<br>
+int yellow = 3;<br>
+int red = 4;<br>
+void setup() {<br>
+  // initialize digital pins as an output.<br>
+  pinMode(green, OUTPUT);<br>
+  pinMode(yellow, OUTPUT);<br>
+  pinMode(red, OUTPUT);<br>
+}<br>
+<br>
+// the loop function runs over and over again forever<br>
+void loop() {<br>
+  digitalWrite(green, HIGH);  //turn on the green led<br>
+  delay(5000);                //delays 5 seconds<br>
+  digitalWrite(green, LOW);   //turns the led off<br>
+  digitalWrite(yellow, HIGH); //turns the yellow led on<br>
+  delay(5000);                //delays 5 seconds<br>
+  digitalWrite(yellow, LOW);  //turns the led off<br>
+  digitalWrite(red, HIGH);    //turns the red led on<br>
+  delay(5000);                //delays 5 seconds<br>
+  digitalWrite(red, LOW);     //turns the led off<br>
+}<br> </code>
   </p>
   <br> Wiring: 
   <br>
