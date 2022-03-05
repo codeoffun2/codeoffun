@@ -24,7 +24,7 @@ permalink: /tutorials/stoplight
 <!-- Include this to make the og:image larger -->
 <meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<body style="background-color:#000000;">
+<body style="background-color:#FFFFFF;">
 
 
 <html>
