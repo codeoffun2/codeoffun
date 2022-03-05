@@ -171,7 +171,7 @@ body {
   <p> This tutorial will teach you how to make a stoplight with an arduino.
     <br> This project can be done within 5-10 minutes.
     <br> Level: Beginners </p>
-  <p> Materials:
+  <p> <h2> Materials: </h2>
     <br> Arduino
     <br> 3 leds (red, green and yellow)
   </p>
