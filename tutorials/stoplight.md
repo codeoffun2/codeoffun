@@ -212,6 +212,6 @@ void loop() {<br>
   digitalWrite(red, LOW);     //turns the led off<br>
 }<br> </code>
   </p>
-  <br> Wiring: 
+  <br> <h2> Wiring: </h2>
   <br>
   <img src="Screenshot 2022-03-05 171055.png" alt="wiring">
