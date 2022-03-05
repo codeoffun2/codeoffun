@@ -4,7 +4,7 @@
 
 layout: page
 title: "test"
-permalink: /test/
+permalink: /tutorials/stoplight
 ---
 
 
