@@ -24,7 +24,7 @@ permalink: /tutorials/stoplight
 <!-- Include this to make the og:image larger -->
 <meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<body style="background-color:#81D8D0;">
+<body style="background-color:#000000;">
 
 
 <html>
@@ -175,7 +175,7 @@ body {
     <br> Arduino
     <br> 3 leds (red, green and yellow)
   </p>
-<h2> Code:
+  <h2> Code: </h2>
   <br>
   <p> <code> /* Led stoplight
 
