@@ -156,7 +156,7 @@ body {
 </div>
   </div>
   <div>
-    <iframe width="960" src="https://create.arduino.cc/iot/dashboards/12f0bb40-7fc5-4a7d-8dd2-bfb07a603183">
+    <iframe width="960" height="450" src="https://create.arduino.cc/iot/dashboards/12f0bb40-7fc5-4a7d-8dd2-bfb07a603183">
 </iframe>
 
 
