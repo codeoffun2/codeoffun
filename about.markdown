@@ -167,5 +167,5 @@ body {
 
 
 
-I'm codeoffun, a amature expert!
-I'm experienced in Arduinos,esps, you name it! 
+I'm codeoffun, an amature expert!
+I'm experienced in Arduinos, Raspberry Pis, you name it! 
