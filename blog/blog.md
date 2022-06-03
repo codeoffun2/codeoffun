@@ -172,6 +172,4 @@ a:link {
 Recent blogs:
 <br>
 <br>
-Kharkiv attack
-<br> 
-<a href="https://codeoffun.ddns.net/blog/kharkiv-attack" target="_blank"> >>> </a>
+
