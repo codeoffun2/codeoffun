@@ -174,6 +174,7 @@ body {
   <p> <h2> Materials: </h2>
     <br> Arduino
     <br> 3 leds (red, green and yellow)
+    <br> (it's preferred to use resistors so use them to connect to the arduino if wanted)
   </p>
   <h2> Code: </h2>
   <br>
