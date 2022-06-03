@@ -154,10 +154,12 @@ body {
 <p style="font-family: Helvetica">
 <br> 
 <br>
-<p style="font-family: Unica One">
-Email: codeoffun2@gmail.com
-Discord: codeoffun#8621
 
+Email: codeoffun2@gmail.com
+<br>
+Discord: codeoffun#8621
+<br>
+May take 1-2 days to answer
 </p>
 
 
