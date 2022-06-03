@@ -160,7 +160,7 @@ body {
 
 
 <div align="center">
-<p style="font-family: Helvetica">Hello there!👋
+<p style="font-family: Helvetica">
 <h1>Recent tutorials</h1>
 <br>
 <a href="https://codeoffun.ddns.net/tutorials/stoplight"> Arduino stoplight </a>
