@@ -21,7 +21,7 @@ permalink: /foto/
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="oDxukBkdlE7rzN-YU0phS7LTeVIG1ZGbeS62fjbs3q8" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<body style="background-color:#81D8D0;">
+<body style="background-color:#FFFFFF;">
 
 
 <html>
@@ -132,14 +132,14 @@ a:link {
   <a href="https://codeoffun.ddns.net/projects">Projects</a>
   <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
     <a href="https://codeoffun.ddns.net/contact">Contact</a>
-  <a class="active" href="https://codeoffun.ddns.net/about">About</a>
+  <a href="https://codeoffun.ddns.net/about">About</a>
   <a href="https://codeoffun.ddns.net/blog">Blog</a>  
   </div>
 <div id="content-mobile">
 
 <div style="float:left" >
 
-     <a  href="https://codeoffun.ddns.net"> <i class="fa fa-home"> </i> </a> 
+     <a href="https://codeoffun.ddns.net"> <i class="fa fa-home"> </i> </a> 
     </div>
 
  <div style="float:right" >
