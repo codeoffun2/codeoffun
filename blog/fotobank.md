@@ -22,7 +22,12 @@ permalink: /foto/
 <meta name="google-site-verification" content="oDxukBkdlE7rzN-YU0phS7LTeVIG1ZGbeS62fjbs3q8" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body style="background-color:#FFFFFF;">
-
+    <title>Codeo</title>
+    <meta content="Random pics" property="og:title" />
+    <meta content="Local storage of pictures me and remson took" property="og:description" />
+    <meta content="https://codeoffun.ddns.net/foto" property="og:url" />
+    <meta content="/photos/903B4CEA-D53C-4CCA-B1F1-63B14DEF2FB6.jpeg" property="og:image" />
+    <meta content="#43B581" data-react-helmet="true" name="theme-color" />
 
 <html>
 <head>
@@ -47,12 +52,12 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #81D8D0;
+  background-color: #FFFFFF;
   color: white;
 }
 
 .topnav a.active {
-  background-color: #81D8D0;
+  background-color: #FFFFFF;
   color: white;
 }
 .dropdown {
