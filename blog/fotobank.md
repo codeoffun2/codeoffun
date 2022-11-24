@@ -39,7 +39,7 @@ body {
 
 .topnav a {
   float: left;
-  color: #81D8D0;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -164,90 +164,33 @@ a:link {
 
 
 <!-- end of button code -->
-
- 
- 
- 
+<!-- foto timez -->
 <img src="/photos/IMG_20221108_142700.jpg">
- 
- 
 <img src="/photos/IMG_20221108_143231.jpg">
- 
- 
 <img src="/photos/IMG_20221108_143321.jpg">
- 
- 
 <img src="/photos/IMG_20221108_143411.jpg">
- 
- 
 <img src="/photos/IMG_20221108_143455.jpg">
- 
- 
 <img src="/photos/IMG_20221108_143708.jpg">
- 
- 
 <img src="/photos/IMG_20221109_094757.jpg">
- 
- 
 <img src="/photos/IMG_20221109_094827.jpg">
- 
- 
 <img src="/photos/IMG_20221109_094846.jpg">
- 
- 
 <img src="/photos/IMG_20221109_094918.jpg">
- 
- 
 <img src="/photos/IMG_20221109_094925.jpg">
- 
- 
 <img src="/photos/IMG_20221109_095008.jpg">
- 
- 
 <img src="/photos/IMG_20221109_095611.jpg">
- 
- 
-<img src="/photos/IMG_20221109_095809.jpg">
- 
- 
+<img src="/photos/IMG_20221109_095809.jpg"> 
 <img src="/photos/IMG_20221109_095812.jpg">
- 
- 
 <img src="/photos/IMG_20221111_142938.jpg">
- 
- 
 <img src="/photos/IMG_20221111_142939.jpg">
- 
- 
-<img src="/photos/.jpg">
- 
- 
 <img src="/photos/IMG_20221115_124621.jpg">
- 
- 
 <img src="/photos/IMG_20221115_124648.jpg">
- 
- 
 <img src="/photos/IMG_20221116_085756.jpg">
- 
- 
 <img src="/photos/IMG_20221116_085757.jpg">
- 
- 
 <img src="/photos/IMG_20221121_122540.jpg">
- 
- 
 <img src="/photos/IMG_20221121_122709.jpg">
- 
- 
 <img src="/photos/IMG_20221121_122712.jpg">
- 
- 
 <img src="/photos/IMG_20221124_091010.jpg">
- 
- 
 <img src="/photos/IMG_20221124_091014.jpg">
- 
 <img src="/photos/IMG_20221124_091042.jpg">
  
  
