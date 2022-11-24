@@ -170,6 +170,7 @@ a:link {
 
 <!-- end of button code -->
 <!-- foto timez -->
+<h1 id="class_pics"> Class pics </h1>
 <img src="/photos/IMG_20221108_142700.jpg">
 <img src="/photos/IMG_20221108_143231.jpg">
 <img src="/photos/IMG_20221108_143321.jpg">
@@ -197,12 +198,9 @@ a:link {
 <img src="/photos/IMG_20221124_091010.jpg">
 <img src="/photos/IMG_20221124_091014.jpg">
 <img src="/photos/IMG_20221124_091042.jpg">
- 
- 
-<img src="/photos/IMG_20221124_093921.jpg">
- 
+<img src="/photos/IMG_20221124_093921.jpg"
 <img src="/photos/IMG_20221124_094005.jpg">
- 
+
 
 
 
