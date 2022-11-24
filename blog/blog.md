@@ -255,9 +255,6 @@ a:link {
  
 <img src="/photos/IMG_20221124_094005.jpg">
  
- 
-<img src="/photos/VID_20221121_122751.gif”>
-
 
 
 
