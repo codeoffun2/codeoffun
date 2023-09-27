@@ -20,7 +20,7 @@ layout: home
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="oDxukBkdlE7rzN-YU0phS7LTeVIG1ZGbeS62fjbs3q8" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<body style="background-color:#fcde67;">
+<body style="background-color:#03265e;">
 <link href='https://fonts.googleapis.com/css?family=Unica One' rel='stylesheet'>
 
 <html>
@@ -38,7 +38,7 @@ body {
 
 .topnav a {
   float: left;
-  color: #5bccf6;
+  color: #dfc634;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -46,12 +46,12 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #5bccf6;
+  background-color: #dfc634;
   color: white;
 }
 
 .topnav a.active {
-  background-color: #5bccf6;
+  background-color: #dfc634;
   color: white;
 }
 .dropdown {
@@ -77,7 +77,7 @@ body {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #5bccf6;
+  background-color: #dfc634;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -86,7 +86,7 @@ body {
 
 .dropdown-content a {
   float: none;
-  color: #5bccf6;
+  color: #dfc634;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
