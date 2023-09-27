@@ -108,7 +108,7 @@ body {
 code {
   font-family: Consolas,"courier new";
   color: crimson;
-  background-color: #f1f1f1;
+  background-color: #b6a649;
   padding: 2px;
   font-size: 105%;
 }
@@ -167,7 +167,7 @@ code {
 
 <!-- end of button code hs-->
 
-<p style="font-family: Helvetica">Hello there!👋
+<p style="font-family: Helvetica, color: #b6a649;">Hello there!👋
 <br> I'm codeoffun and I know a little bit of coding!
 <br>
 
