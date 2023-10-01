@@ -20,7 +20,7 @@ layout: home
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="oDxukBkdlE7rzN-YU0phS7LTeVIG1ZGbeS62fjbs3q8" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<body style="background-color:#03265e;">
+<body style="background-color:#181510;">
 <link href='https://fonts.googleapis.com/css?family=Unica One' rel='stylesheet'>
 
 <html>
@@ -108,7 +108,7 @@ body {
 code {
   font-family: Consolas,"courier new";
   color: crimson;
-  background-color: #b6a649;
+  background-color: #785f37;
   padding: 2px;
   font-size: 105%;
 }
@@ -132,8 +132,6 @@ code {
 <div class="topnav">
 <div id="content-desktop">
   <a class="active" href="https://codeoffun.ddns.net">Home</a>
-  <a href="https://codeoffun.ddns.net/projects">Projects</a>
-  <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
     <a href="https://codeoffun.ddns.net/contact">Contact</a>
   <a href="https://codeoffun.ddns.net/about">About</a>
   <a href="https://codeoffun.ddns.net/blog">Blog</a>  
@@ -152,8 +150,7 @@ code {
       <i class="fa fa-bars"></i>
     </button>
     <div class="dropdown-content">
-      <a href="https://codeoffun.ddns.net/projects">Projects</a>
-      <a href="https://codeoffun.ddns.net/tutorials">Tutorials</a>
+
         <a href="https://codeoffun.ddns.net/contact">Contact</a>
       <a href="https://codeoffun.ddns.net/about">About</a>   
         <a href="https://codeoffun.ddns.net/blog">Blog</a>
@@ -167,8 +164,8 @@ code {
 
 <!-- end of button code hs-->
 
-<p style="font-family: Helvetica, color: #b6a649;">Hello there!👋
-<br> I'm codeoffun and I know a little bit of coding!
+<p style="font-family: Helvetica, color: #fffff;"> I am codeoffun.
+<br> 
 <br>
 
   </p>
